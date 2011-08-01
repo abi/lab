@@ -18,8 +18,9 @@ Setup the database
 TODO
 ====
 
-* Good testing framework
-* Better Makefiles (You can do make install?)
+* Good testing framework (http://golang.org/doc/code.html)
+* Better Makefiles (You can do make install that will download your packages? WHAT.)
+* 
 
 -------------------
 
